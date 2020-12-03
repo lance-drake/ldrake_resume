@@ -6,9 +6,9 @@ title: Lance Drake's Resume
  Data Analyst with a demonstrated history of working in the higher education industry. Skilled in Microsoft Word, Microsoft Excel, Sales, Public Speaking, Leadership, and statistical programming. Strong information technology professional with a Bachelor of Science (B.S.) focused in Data Science from Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="dra15006@byui.edu">dra15006@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/thelancedrake/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
