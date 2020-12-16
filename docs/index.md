@@ -21,9 +21,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Data Science
 
-
 ## Related Experience
-
 
 ### Data Analyst
 `2019 - Present`
@@ -63,13 +61,13 @@ __The Church of Jesus Christ of Latter-Day Saints__
 
 - Managed a diverse team of more than 20 volunteers in the Philippines to motivate and train volunteers and strengthen work ethic.
 - Coordinated with local church membership and leaders to enhance volunteer efforts and outreach.
-- Inspired volunteers to think outside of the box. 
+- Inspired volunteers to think outside of the box.
 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
